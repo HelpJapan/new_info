@@ -98,3 +98,7 @@ ul li {
   padding: 0.5em;
   list-style-type: none!important;/*ポチ消す*/
 }
+
+.ratiolist {
+    text-align: left;
+}
